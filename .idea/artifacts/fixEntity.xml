@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fixEntity">
+    <output-path>$PROJECT_DIR$/../../NewPlugins/fixEntity</output-path>
+    <root id="archive" name="fixEntity.jar">
+      <element id="module-output" name="fixExitingEntity" />
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+    </root>
+  </artifact>
+</component>
